@@ -1,0 +1,49 @@
+PythonCyC,Frame ID,Test (left or right of),Instances,BioCyc,,0.5,1,2,4,12,24,48,72
+pyruvate,|PYRUVATE|,Yes,1,pyruvate,Pyruvate,1.19,1.32,0.86,0.68,0.54,1.84,3.23,3.63
+,,DEADEND - used |LACTATE|,,"lactate, (R)-lactate and (S)-lactate",Lactate,0.87,1.26,0.98,0.67,0.53,4.94,3.67,12.75
+NOT IN ARA,,,,Absent in BioCyc - phosphate?,Phosphorate,1.29,0.92,0.95,1.21,1.19,1.92,0.96,0.55
+NOT IN ARA,,,,Absent in BioCyc,n-Butylamine,1.09,1.08,1.07,0.96,0.95,1.05,1.03,1.07
+ethanolamine,|ETHANOL-AMINE|,Yes - used ETHANOL-AMINE,1,ethanolamine,Ethanolamine,1.31,1.45,1.18,1.22,0.52,0.59,0.31,0.26
+glycerol,|GLYCEROL|,Yes,1,glycerol,Glycerol,1.61,0.72,0.68,1.91,1.42,3.3,0.9,1.4
+succinate,|SUC|,Yes - used suc,1,succinate,Succinate,0.75,1.08,0.8,0.55,0.39,0.21,0.87,1.62
+D-glycerate,|GLYCERATE|,Yes - used glycerate,1,D-glycerate and D/L glycerate,Glycerate,1.17,0.82,0.58,0.97,1.18,1.6,1.35,0.7
+fumarate,|FUM|,Yes - used fum,1,fumarate,Fumarate,0.82,0.92,0.72,0.7,0.53,0.23,0.91,2.3
+cadaverine,|CADAVERINE|,Yes,,cadaverine,Cadaverine,1.06,1,1.07,0.89,0.92,0.91,1.08,0.96
+(S)-malate,|MAL|,Yes - used mal,,(S)-malate and (RS)-malate,Malate,0.79,1.11,0.87,0.73,0.62,1.17,0.82,2.27
+4-aminobutanoate,|4-AMINO-BUTYRATE|,Yes - used 4-AMINO-BUTYRATE,,4-aminobutanoate,4-Aminobutyrate,0.87,1.26,1.21,0.87,0.77,1.01,0.92,1.7
+L-cysteine,|CYS|,Yes - used cys,,L-cysteine and D-cysteine,Cysteine,1.03,1.5,1.34,0.97,0.74,0.27,1.23,0.78
+2-oxoglutarate,|2-KETOGLUTARATE|,Yes - used 2-KETOGLUTARATE,,2-oxoglutarate,_-Ketoglutarate,1.17,0.99,0.9,0.91,0.84,0.47,1.88,1.84
+cis-aconitate,|CIS-ACONITATE|,Yes - used CIS-ACONITATE,,cis-aconitate and dis-aconitate,Aconitate,1.5,0.91,1,1.71,0.95,0.7,0.37,0.82
+putrescine,|PUTRESCINE|,Yes,,putrescine,Putrescine,0.6,0.94,0.82,0.92,0.87,0.49,0.8,0.56
+NOT In ARA,,,,Absent in BioCyc,Ribonate,1.01,1,0.92,0.87,0.83,0.78,0.84,0.81
+shikimate,|SHIKIMATE|,Yes,,shikimate,Shikimate,0.71,0.9,0.6,0.54,0.53,0.37,0.76,2.02
+citrate,|CIT|,Yes - used cit,,citrate,Citrate,1.1,1.15,1.6,1.24,1,0.34,0.61,0.76
+NOT IN ARA,,DEADEND - used |FRU|,,D-fructose,D-fructose,0.72,1.05,0.89,0.64,0.26,0.62,0.85,1.59
+,|GLUCOSE|,Yes - used |GLUCOSE|,,"glucose, L-glucose and D-glucose",Glucose,0.97,1.02,1.02,0.85,0.85,0.38,0.63,0.58
+L-lysine,|LYS|,Yes - used lys,,L-lysine and D-lysine,Lysine,1.32,1.74,1.85,1.28,0.7,0.26,0.97,0.25
+L-tyrosine,|TYR|,Yes - used tyr,,L-tyrosine and a [protein]-L-tyrosine,Tyrosine,1.81,3.71,3.64,1.25,0.76,0.26,0.84,0.14
+gluconate,|GLUCONATE|,Yes,,D-gluconate,Gluconate,0.95,1.08,1,0.85,0.7,0.36,0.51,0.48
+L-galactonate,|CPD0-1083|,Yes - used CPD0-1083,,L-galactonate,Galactonate,1.07,0.94,0.95,0.9,0.78,0.56,0.75,0.71
+,,DEADEND - used |Inositols|,,an inositol,Inositol,1.03,0.88,0.83,0.88,1,2.37,1.63,1.6
+urate,|URATE|,Yes,,urate,Urate,0.76,1.52,2.5,0.74,0.52,0.78,1.76,1.46
+sucrose,|SUCROSE|,Yes,,sucrose,Sucrose,0.86,1.1,1.49,0.89,1.08,0.53,2.12,10.03
+trehalose,|TREHALOSE|,Yes,,trehalose,Trehalose,1.11,0.96,0.88,0.75,0.9,0.73,0.87,1.42
+L-aspartate,|L-ASPARTATE|,Yes - used L-ASPARTATE,,L-aspartate and D-aspartate,Aspartate,0.77,0.74,0.8,1.14,0.7,0.53,0.59,0.38
+L-asparagine,|ASN|,Yes - used asn,,L-asparagine,Asparagine,1.01,0.97,1.17,0.95,0.74,1,0.87,0.46
+L-serine,|SER|,Yes - used ser,,"D-serine, L-serine and D-or-L-serine",Serine,0.79,0.82,0.94,0.9,0.82,0.82,0.88,0.8
+glycine,|GLY|,Yes - used gly,,glycine,Glycine,0.91,0.85,0.96,0.82,0.78,0.81,0.97,0.87
+L-alanine,|L-ALPHA-ALANINE|,Yes - used L-ALPHA-ALANINE,,"L-alanine, D-alanine and beta-alanine",Alanine,0.92,0.86,0.85,0.91,0.71,1.31,1.3,1.38
+L-glutamate,|GLT|,Yes - used glt,,glutamate and D-or-L-glutamate,Glutamate,0.46,0.55,0.48,0.71,0.52,0.69,0.59,0.61
+L-glutamine,|GLN|,Yes - used gln,,L-glutamine,Glutamine,0.45,0.63,0.61,0.73,0.75,0.72,0.6,0.37
+L-threonine,|THR|,Yes - used thr,,L-threonine,Threonine,0.9,1.04,1.08,0.98,0.89,1.16,1.01,0.54
+L-proline,|PRO|,Yes - used pro,,D-proline and L-proline,Proline,0.96,1.04,0.93,0.8,0.95,1.08,0.97,0.64
+L-valine,|VAL|,Yes - used val (only one side),,L-valine,Valine,0.81,1.01,1.01,1.01,0.85,0.69,0.7,0.43
+L-tryptophan,|TRP|,Yes - used trp,,D-tryptophan and L-tryptophan,Tryptophan,1.31,2.34,2.18,1.11,1.01,0.37,0.45,0.24
+ile,|ILE|,Yes,,L-isoleucine,Isoleucine,1.07,1.21,1.2,1.12,0.92,0.85,1.04,0.16
+leu,|LEU|,Yes,,L-leucine,Leucine,1.11,1.15,1.22,1.2,0.89,0.56,0.72,0.22
+L-phenylalanine,|PHE|,Yes - used phe,,L-phenylalanine,Phenylalanine,1.47,1.88,1.6,1.31,0.66,0.29,0.5,0.61
+formate,|FORMATE|,Yes,,formate,Formate,1.02,0.92,1.1,1.09,1.01,1.08,1.41,1.29
+,,,,Calibration,SAM,1.38,1.82,1.47,1.39,0.92,1.08,0.89,0.6
+,,,,Calibration,SAH,1.09,0.96,1.02,0.85,1.29,1.65,1.6,1.53
+,,,,Calculated,Methylation,1.25,1.88,1.45,1.63,0.71,0.65,0.56,0.39
+NOT IN ARA,,DEADEND - used |Folates|,,folate,Folate,0.93,0.9,0.88,0.87,0.94,0.89,0.94,1.01
